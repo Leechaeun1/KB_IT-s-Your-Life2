@@ -22,6 +22,7 @@ public class Student {
     @Override
     public boolean equals(Object o) {
         if (!(o instanceof Student student)) return false;
+        // 학번과 이름이 같으면 true
         return no == student.no && Objects.equals(name, student.name);
     }
 
