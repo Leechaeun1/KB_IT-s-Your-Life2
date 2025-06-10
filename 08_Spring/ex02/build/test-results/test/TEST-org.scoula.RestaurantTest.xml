@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.RestaurantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-09T02:42:31" hostname="M6F" time="0.019">
+  <properties/>
+  <testcase name="getChef()" classname="org.scoula.RestaurantTest" time="0.019"/>
+  <system-out><![CDATA[ INFO  org.springframework.test.context.support.DefaultTestContextBootstrapper(getDefaultTestExecutionListenerClassNames:245) - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+ INFO  org.springframework.test.context.support.DefaultTestContextBootstrapper(getTestExecutionListeners:174) - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@64d43929, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1d269ed7, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@437ebf59, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@41c89d2f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@410e94e, org.springframework.test.context.event.EventPublishingTestExecutionListener@2d691f3d]
+ INFO  org.scoula.RestaurantTest(getChef:26) - Restaurant(chef=org.scoula.controller.Chef@3bec2275)
+ INFO  org.scoula.RestaurantTest(getChef:27) - ------------------
+ INFO  org.scoula.RestaurantTest(getChef:28) - org.scoula.controller.Chef@3bec2275
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
