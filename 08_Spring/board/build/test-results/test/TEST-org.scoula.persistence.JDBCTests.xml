@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.scoula.persistence.JDBCTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-16T01:33:44" hostname="M6F" time="0.292">
+  <properties/>
+  <testcase name="JDBC 드라이버 연결이 된다." classname="org.scoula.persistence.JDBCTests" time="0.292"/>
+  <system-out><![CDATA[ INFO  org.scoula.persistence.JDBCTests(testConnection:32) - com.mysql.cj.jdbc.ConnectionImpl@35088e87
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
